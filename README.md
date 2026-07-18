@@ -76,38 +76,7 @@ I'm currently focused on improving my skills in:
 * Backend performance optimization
 * Backend development best practices
 
----
 
-## 🎯 My Development Focus
-
-My goal is to become a strong **Full-Stack and Backend Developer** capable of building reliable and scalable web applications.
-
-I'm particularly interested in improving my understanding of:
-
-* Backend application development
-* Secure authentication systems
-* Database design
-* SQL
-* REST API development
-* Third-party service integrations
-* Performance optimization
-* Clean and maintainable code
-
----
-
-## 💡 What I'm Working On
-
-I'm currently building and improving projects that help me gain practical experience with:
-
-* Full-stack web application development
-* REST API development
-* Authentication and authorization
-* PostgreSQL and Sequelize
-* Database migrations
-* Frontend and backend integration
-* Database-driven applications
-
-I believe in learning by building real-world projects and continuously improving them as I learn new technologies.
 
 
 
